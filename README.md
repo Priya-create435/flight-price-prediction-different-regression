@@ -1,4 +1,4 @@
-# flight-price-prediction-different-regression
+# flight-price-prediction-different-regression 98% accuracy
 
 Flight Price Prediction using Different Regression Techniques
 Description

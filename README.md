@@ -5,7 +5,7 @@ Description
 This GitHub repository contains a flight price prediction project implemented in Python, focusing on various regression techniques. The project aims to predict flight prices based on historical data, enabling travelers to make informed decisions and plan their trips more efficiently.
 
 Dataset Source
-The dataset used for this project is obtained from [Clean_Dataset.csv]. It includes features such as departure and arrival locations, date of travel, airline information, flight duration, and historical flight prices. The dataset is preprocessed and cleaned to ensure the quality and reliability of the predictions.
+The dataset used for this project is obtained from ['/kaggle/input/flight-price-prediction/Clean_Dataset.csv']. It includes features such as departure and arrival locations, date of travel, airline information, flight duration, and historical flight prices. The dataset is preprocessed and cleaned to ensure the quality and reliability of the predictions.
 
 Regression Techniques Explored
 The project explores several regression techniques to predict flight prices, including but not limited to:
@@ -23,7 +23,7 @@ Ensure you have Python 3.x and the required libraries installed on your system. 
 
 Copy code
 pip install numpy pandas scikit-learn matplotlib seaborn
-Obtain the flight price dataset from [Clean_Dataset.csv] and place it in the project directory.
+Obtain the flight price dataset from ['/kaggle/input/flight-price-prediction/Clean_Dataset.csv'] and place it in the project directory.
 
 Open the Jupyter Notebook or Python scripts provided in the repository using Jupyter Notebook or your preferred Python environment.
 
